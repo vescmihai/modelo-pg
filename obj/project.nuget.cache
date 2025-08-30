@@ -1,34 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "BJdxEE1w+No=",
+  "dgSpecHash": "uj0KIV8En/w=",
   "success": true,
   "projectFilePath": "C:\\Users\\vescm\\Desktop\\OpenTKCube\\OpenTKCube.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk\\4.8.0\\opentk.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.audio.openal\\4.8.0\\opentk.audio.openal.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.compute\\4.8.0\\opentk.compute.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.core\\4.8.0\\opentk.core.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.graphics\\4.8.0\\opentk.graphics.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.input\\4.8.0\\opentk.input.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.mathematics\\4.8.0\\opentk.mathematics.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.38\\opentk.redist.glfw.3.3.8.38.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.common\\4.8.0\\opentk.windowing.common.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.desktop\\4.8.0\\opentk.windowing.desktop.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.0\\opentk.windowing.graphicslibraryframework.4.8.0.nupkg.sha512",
-    "C:\\Users\\vescm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.compute\\4.8.2\\opentk.compute.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.core\\4.8.2\\opentk.core.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.graphics\\4.8.2\\opentk.graphics.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.input\\4.8.2\\opentk.input.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.mathematics\\4.8.2\\opentk.mathematics.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.39\\opentk.redist.glfw.3.3.8.39.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.common\\4.8.2\\opentk.windowing.common.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.desktop\\4.8.2\\opentk.windowing.desktop.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.2\\opentk.windowing.graphicslibraryframework.4.8.2.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\vescm\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "OpenTKCube depende de OpenTK (>= 4.7.9), pero no se encontró OpenTK 4.7.9. OpenTK 4.8.0 se resolvió en su lugar.",
-      "projectPath": "C:\\Users\\vescm\\Desktop\\OpenTKCube\\OpenTKCube.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\vescm\\Desktop\\OpenTKCube\\OpenTKCube.csproj",
-      "libraryId": "OpenTK",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

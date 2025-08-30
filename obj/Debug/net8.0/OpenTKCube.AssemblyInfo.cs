@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenTKCube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06c2f844bacfd2d168021895f25a4fdecfe678dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3e4b67cdd15fe9080ab7ff03b1af3131b11702")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenTKCube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenTKCube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
